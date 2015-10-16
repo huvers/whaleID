@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+ 
+ 
+  <image file='/home/huvers/data/imgs_original/w_4000.jpg'>
+    <box top='704' left='104' width='1393' height='1041'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4001.jpg'>
+    <box top='185' left='2180' width='1386' height='2241'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4002.jpg'>
+    <box top='570' left='345' width='1746' height='1076'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4003.jpg'>
+    <box top='60' left='1485' width='235' height='844'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4004.jpg'>
+    <box top='864' left='939' width='784' height='769'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4005.jpg'>
+    <box top='1412' left='1288' width='2197' height='1965'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4006.jpg'>
+    <box top='984' left='2464' width='737' height='1145'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4007.jpg'>
+    <box top='1336' left='1924' width='825' height='1569'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4008.jpg'>
+    <box top='236' left='1404' width='1657' height='1213'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4009.jpg'>
+    <box top='840' left='656' width='1205' height='1205'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_401.jpg'>
+    <box top='472' left='1232' width='933' height='761'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4010.jpg'>
+    <box top='1072' left='1576' width='1001' height='1913'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4011.jpg'>
+    <box top='254' left='1103' width='471' height='551'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4012.jpg'>
+    <box top='483' left='2325' width='1066' height='856'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4013.jpg'>
+    <box top='1071' left='1746' width='1333' height='808'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4014.jpg'>
+    <box top='42' left='1113' width='445' height='1459'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4015.jpg'>
+    <box top='138' left='1164' width='487' height='1087'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4016.jpg'>
+    <box top='801' left='1035' width='1522' height='751'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4017.jpg'>
+    <box top='1112' left='1704' width='2501' height='1445'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4018.jpg'>
+    <box top='909' left='1452' width='1621' height='1120'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_4019.jpg'>
+    <box top='708' left='1242' width='745' height='1084'/>
+  </image>
+  <image file='/home/huvers/data/imgs_original/w_402.jpg'>
+    <box top='579' left='1668' width='652' height='775'/>
+  </image>
+</images>
+</dataset>
